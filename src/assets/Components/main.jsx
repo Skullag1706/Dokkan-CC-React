@@ -37,7 +37,6 @@ const Main = () => {
                 />
               </div>
 
-
               <h2 className="titulos">Secundarios</h2>
               <div className="row">
                 <Personajes
